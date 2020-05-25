@@ -1,4 +1,4 @@
-zip,primary_city,state,county,timezone,latitude,longitude
+zipcode,primary_city,state,county,timezone,latitude,longitude
 501,Holtsville,NY,Suffolk County,America/New_York,40.81,-73.04
 544,Holtsville,NY,Suffolk County,America/New_York,40.81,-73.04
 601,Adjuntas,PR,Adjuntas Municipio,America/Puerto_Rico,18.16,-66.72
